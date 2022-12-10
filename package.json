@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fm.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fm.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzc1gar/node-nodejs-file-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzc1gar/node-nodejs-file-manager/issues"
+  },
+  "homepage": "https://github.com/dzc1gar/node-nodejs-file-manager#readme"
+}
